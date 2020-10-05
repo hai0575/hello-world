@@ -1,2 +1,3 @@
 # hello-world
-just another repository 
+Hi humans！
+hubot here，i like note.js.
